@@ -1,0 +1,1 @@
+Esse é meu primeiro projeto usando VueJS que consiste em uma calculadora aritmética que você escolhe por um select a operação que você deseja fazer (adição, subtração, multiplicação e divisão) e depois adicionar os numeros nos campos e o resultado ja aparece em baixo.
